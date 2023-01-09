@@ -1,0 +1,153 @@
+
+.main{
+    
+  top: 60px;
+  
+  width: 800px;
+  height: 2000px;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  
+ /* align-items: center;*/
+  margin-left: 20px;
+  padding-top: 100px;
+  padding-left: 50px;
+  
+}
+.titre1 
+{    width:auto;
+    display: flex;
+
+    justify-content: flex-start;
+    align-self: flex-start;
+    
+    margin-top: 10px;
+    cursor: pointer;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 15px; 
+
+}
+
+.rassem{
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.channel {
+    display: flex;
+    
+}
+
+.tit2{
+    color: grey;
+    font-size: 10px;
+}
+
+.abonne{
+    background-color: black;
+    border-radius: 25px;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    margin-left: 10px;
+
+}
+
+.gauche {
+    display: flex;
+    margin-left: 70px;
+    justify-content: space-between;
+    background-color: grey;
+    padding: 15px 10px 15px 8px ;
+    border-radius: 20px;
+}
+.gauch {
+    display: flex;
+    margin-right: 10px;
+}
+
+.part{
+    width: 17%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 20px;
+    background-color: grey;
+    padding: 15px;
+    color: white;
+    border-radius: 20px;
+    
+}
+
+.para{
+    width: 550px;
+    background-color: gray;
+    margin-top: 25px;
+    padding-left: 15px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    border-radius: 20px;
+}
+
+.imgcomm {
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.comm{
+    display: flex;
+}
+
+.inp {
+    margin-top: 28px;
+    margin-left: 15px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.imgpers {
+    margin-right: 15px;
+    border-radius: 20px;
+}
+.commreel{
+    display: flex;
+    margin-top: 20px;
+}
+
+.nom {
+    display: flex;
+}
+.ensem {
+    display:flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ensemb {
+    display:flex;
+}
+
+.btnp {
+
+margin-right: 10px;
+}
+.btnm {
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.rep:hover {
+    background-color: gray;
+    cursor: pointer;
+
+}
+.da {
+    margin-left: 10px;
+    padding-top: 3px;
+}
